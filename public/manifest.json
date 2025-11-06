@@ -1,0 +1,31 @@
+{
+  "short_name": "Cozy Todo",
+  "name": "Cozy Todo - A Peaceful Task Manager",
+  "icons": [
+    {
+      "src": "logo/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#90caf9",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "description": "A cozy and peaceful todo list app with customizable themes, background music, and YouTube integration.",
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "prefer_related_applications": false
+}
